@@ -35,9 +35,6 @@ STGNN-Implementations/
 │   ├── README.md
 │   └── ...
 │
-├── GraphWavenet(Static)/
-│   ├── To_be_Implemented.md
-│
 └── GraphWavenet(DGCRN)/
-    ├── To_be_Implemented.md
+    ├── README.md
 ```
